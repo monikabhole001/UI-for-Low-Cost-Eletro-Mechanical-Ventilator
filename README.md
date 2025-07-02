@@ -16,6 +16,9 @@ An interactive, real-time UI dashboard for a low-cost ventilator using Arduino, 
 - Optionally runs mock server for frontend testing
 
 ---
+## 📄 Publication
+
+🔗 [A Review of Designing Ventilators Using Different Mechanisms](https://www.researchgate.net/publication/348856398_A_Review_of_Designing_Ventilators_Using_Different_Mechanisms)  
 
 ### 🎖️ IEEE YESIST12 2020 (WePOWER Track) – Honorable Mention  
 Low-Cost Electro-Mechanical Ventilator presented at IEEE YESIST12 Finals.
