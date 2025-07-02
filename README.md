@@ -20,7 +20,7 @@ An interactive, real-time UI dashboard for a low-cost ventilator using Arduino, 
 ### 🎖️ IEEE YESIST12 2020 (WePOWER Track) – Honorable Mention  
 Low-Cost Electro-Mechanical Ventilator presented at IEEE YESIST12 Finals.
 
-![Certificate](./assets/honorable-mention.jpg)
+![Certificate](./assets/honorable_mention.jpg)
 
 ### ⚙️ Hardware Prototype
 
